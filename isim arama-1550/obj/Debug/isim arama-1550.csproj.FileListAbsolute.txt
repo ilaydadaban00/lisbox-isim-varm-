@@ -1,0 +1,10 @@
+C:\Users\ben\source\repos\isim arama-1550\isim arama-1550\bin\Debug\isim arama-1550.exe.config
+C:\Users\ben\source\repos\isim arama-1550\isim arama-1550\bin\Debug\isim arama-1550.exe
+C:\Users\ben\source\repos\isim arama-1550\isim arama-1550\bin\Debug\isim arama-1550.pdb
+C:\Users\ben\source\repos\isim arama-1550\isim arama-1550\obj\Debug\isim arama-1550.csproj.AssemblyReference.cache
+C:\Users\ben\source\repos\isim arama-1550\isim arama-1550\obj\Debug\isim_arama_1550.Form1.resources
+C:\Users\ben\source\repos\isim arama-1550\isim arama-1550\obj\Debug\isim_arama_1550.Properties.Resources.resources
+C:\Users\ben\source\repos\isim arama-1550\isim arama-1550\obj\Debug\isim arama-1550.csproj.GenerateResource.cache
+C:\Users\ben\source\repos\isim arama-1550\isim arama-1550\obj\Debug\isim arama-1550.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\isim arama-1550\isim arama-1550\obj\Debug\isim arama-1550.exe
+C:\Users\ben\source\repos\isim arama-1550\isim arama-1550\obj\Debug\isim arama-1550.pdb
